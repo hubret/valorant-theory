@@ -8,7 +8,7 @@ You're in a 1v2 scenario and both enemies going to come from Main, but the first
 If you don't tempo, you are stuck in either the same spot you took the last engagement, or stuck mid-transit to your next spot, if you decide to move too late.
 
 ### Gain control of an angle
-Imagine you are in a [two corner problem](./Corner%20problem.md#Two%20corner%20problem) at mid and the enemy has control of the angle with an Op, you can't peek around your corner. If your teammate flashes the enemy away from their angle, you should exercise quick tempo to gain control over the angle (perhaps at an off angle), and now you would be holding their angle. If you are too slow, they will already be back on the angle, and you could risk peeking into their crosshairs.
+Imagine you are in a [two corner problem](./Corner%20problem.md#Two-corner-problem) at mid and the enemy has control of the angle with an Op, you can't peek around your corner. If your teammate flashes the enemy away from their angle, you should exercise quick tempo to gain control over the angle (perhaps at an off angle), and now you would be holding their angle. If you are too slow, they will already be back on the angle, and you could risk peeking into their crosshairs.
 
 ### Choose an unlikely position
 After planting the bomb, you immediately move to an unlikely waiting position. Sometimes you only have a few split seconds, and this will only be possible with tempo. Otherwise you might be forced to rat on the plant. After the defender(s) come and tap, you can use the [[Mind games and cheese tech#Flinch check|Flinch Check]].
